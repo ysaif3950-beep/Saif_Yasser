@@ -1,46 +1,110 @@
 <h1 align="center">Hi 👋, I'm Saif Yasser</h1>
-<h3 align="center">Backend Developer | Laravel Enthusiast | MIS Student</h3>
+
+<h3 align="center">Backend Developer | PHP & Laravel Developer</h3>
 
 <p align="center">
-  I build clean backend systems, learn by building real projects, and keep improving one step at a time.
+  MIS Student from Egypt 🇪🇬
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
- 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 MIS student
+- 🎓 MIS Student
 - 🌍 Based in Giza, Egypt
-- 💻 Focused on backend development
-- ⚙️ Working with Laravel, PHP, MySQL, and REST APIs
-- 🚀 Currently improving my skills through real projects and practice
-- 🎯 هدفّي أبني مشاريع قوية وأوصل لمستوى احترافي في الـ Backend
+- 💻 Passionate about Backend Development
+- 🚀 Currently building a Blog API using Laravel
+- 📚 Learning Laravel Advanced Concepts, Testing, and API Development
+- 🎯 My goal is to become a professional Backend Developer
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,html" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,html,css,js,bootstrap" />
 </p>
 
 ---
 
-### 📚 Currently Learning
+## 🚀 Current Project
 
-- Laravel advanced concepts
-- API development
-- Authentication & Authorization
-- Testing
-- Clean code and project structure
+### 📝 Blog API
 
+A RESTful Blog API built with Laravel.
 
+### Features
 
+- Authentication using Laravel Sanctum
+- Password Reset
+- API Versioning
+- Form Request Validation
+- API Resources
+- Authorization Policies
+- Rate Limiting
+- Feature Testing
+- Secure RESTful Endpoints
+
+### Tech Used
+
+- Laravel
+- PHP
+- MySQL
+- Sanctum
+- PHPUnit
+- Postman
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Laravel
+- API Security
+- Laravel Testing
+- Clean Code
+- Git & GitHub
+- Queues & Events
+
+---
+
+## 🎯 2026 Goals
+
+- Complete my Blog API project
+- Build more real-world Laravel projects
+- Improve my testing skills
+- Contribute to open-source projects
+- Land my first Backend Developer internship
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    GitHub
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
