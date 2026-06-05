@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,html" />
 </p>
 
 ---
@@ -55,55 +55,16 @@ A RESTful Blog API built with Laravel.
 - Postman
 
 ---
-
-## 📚 Currently Learning
-
-- Advanced Laravel
-- API Security
-- Laravel Testing
-- Clean Code
-- Git & GitHub
-- Queues & Events
-
----
-
-## 🎯 2026 Goals
-
-- Complete my Blog API project
-- Build more real-world Laravel projects
-- Improve my testing skills
-- Contribute to open-source projects
-- Land my first Backend Developer internship
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    GitHub
+  <a href="https://www.linkedin.com/in/saif-yasser/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+
+
 
 <p align="center">
   Thanks for visiting my profile ❤️
