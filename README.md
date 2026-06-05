@@ -58,12 +58,10 @@ A RESTful Blog API built with Laravel.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/saif-yasser/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/saif-yasser-341465287">
+    <img src="https://img.shields.io/badge/LinkedIn-Saif%20Yasser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
 
 
 <p align="center">
