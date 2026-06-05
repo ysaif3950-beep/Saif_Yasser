@@ -33,7 +33,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,postman,html" />
 </p>
 
 ---
@@ -46,29 +46,5 @@
 - Testing
 - Clean code and project structure
 
----
 
-### 📌 Featured Projects
 
-- 🔹 `Project 1` — short description
-- 🔹 `Project 2` — short description
-- 🔹 `Project 3` — short description
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default" height="180" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://github.com/YOUR-USERNAME">GitHub</a>
-</p>
